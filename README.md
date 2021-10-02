@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 💻 Working as Front-end Developer as a Freelancer.
+
 📚 Learning more about Angular and Node.js.
 
 ### 🚀 My Skills
