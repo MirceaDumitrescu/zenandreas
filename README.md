@@ -3,7 +3,7 @@
 💻 Working as Front-end Developer as a Freelancer.
 📚 Learning more about Angular and Node.js.
 
-## 🚀 My Skills
+### 🚀 My Skills
 
 ### General Applications and Data
 
