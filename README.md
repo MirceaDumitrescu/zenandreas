@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-💻 Working as Front-end Developer as a Freelancer.
+💻 Working as Javascript developer at Playtika. 
 
-📚 Learning more about Angular and Node.js.
+📚 Learning more about Angular and Node.js. Loving Typescript and trying to get involved in many projects where i can learn from.
 
 ### 🚀 My Skills
 
